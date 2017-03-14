@@ -1,0 +1,51 @@
+body{
+	background: linear-gradient(to bottom, #ffffff 0%, #99ccff 100%);
+}
+
+h2{
+	text-align: center;
+	color:  #484f4f;
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: #484f4f;
+	font-size: 18px;
+}
+
+table{
+	text-align: center;
+	width: 500px;
+	height: 550px;
+	border: 2px solid #80ced6;
+}
+
+tr{
+	text-align: center;
+}
+
+th{
+	color: #588c7e;
+	font-size: 20px;
+	height: 50px;
+	border-radius: 15px;
+	border: 2px solid #80ced6;
+	background-color: #e3e0cc;
+	text-align: center;
+}
+
+td{
+	border: 2px solid #80ced6;
+	color: #588c7e;
+}
+
+.imput{
+	background-color:#e3e0cc;
+	border-radius:15px;
+	border: 2px solid #80ced6;
+	height:50px;
+	font-size: 13px;
+	text-align: center;
+	color: #588c7e;
+}
